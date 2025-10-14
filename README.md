@@ -1,6 +1,6 @@
 # Hey there, I'm Alex 👋
 
-- 🌱 I’m currently a first-year student at the University of Toronto
+- 🌱 I’m currently a second-year student at the University of Toronto
 - ⚡ Studying Computer Engineering + PEY
 
 ## Languages 💻
