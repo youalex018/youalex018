@@ -1,22 +1,33 @@
-# Hey there, I'm Alex 👋
+<div align="center">
 
-- 🌱 I’m currently a third-year student at the University of Toronto
-- ⚡ Studying Computer Engineering
+```text
+    █████╗ ██╗     ███████╗██╗  ██╗
+   ██╔══██╗██║     ██╔════╝╚██╗██╔╝
+   ███████║██║     █████╗   ╚███╔╝ 
+   ██╔══██║██║     ██╔══╝   ██╔██╗ 
+   ██║  ██║███████╗███████╗██╔╝ ██╗
+   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-## Languages 💻
-![C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) 
+<p align="center">
+  Computer Engineering @ University of Toronto
+</p>
 
-## How to reach me 📫
-[![Gmail](https://img.shields.io/badge/Gmail-%3BB143?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.you0825@gmail.com)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)
+---
 
-<!--
-ADD MORE STUFF
--->
+</div>
+
+- Hey there 👋, I'm a third-year Computer Engineering student at UofT
+- I'm focused on low-level embedded systems, computer architecture, and firmware engineering
+- Outside of coursework, you can find me eating good food, exploring Toronto, and tinkering with projects
+
+---
+
+<p align="left">
+  <a href="mailto:alex.you0825@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-alex.you0825%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
