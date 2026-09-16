@@ -27,7 +27,7 @@
   <a href="mailto:alex.you0825@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-alex.you0825%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-handle">
+  <a href="https://linkedin.com/in/alex-j-you">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
